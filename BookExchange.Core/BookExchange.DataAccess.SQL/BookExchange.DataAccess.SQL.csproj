@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AED8C7AC-F5A4-4A98-9AFE-0909572E2EDA}</ProjectGuid>
+    <ProjectGuid>{C3A0BEAA-7F0C-4167-AC0F-C62D0EEC2448}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BookExchange.DataAccess.SQL</RootNamespace>
@@ -50,17 +50,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\202111241423089_InitialModel.cs" />
-    <Compile Include="Migrations\202111241423089_InitialModel.Designer.cs">
-      <DependentUpon>202111241423089_InitialModel.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Metier\IRepository.cs" />
     <Compile Include="MyContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-    <None Include="packages.config" />
+    <Compile Include="SQLRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BookExchange.Core\BookExchange.Core.csproj">
@@ -69,9 +62,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202111241423089_InitialModel.resx">
-      <DependentUpon>202111241423089_InitialModel.cs</DependentUpon>
-    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

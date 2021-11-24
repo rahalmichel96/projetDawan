@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace BookExchange.Core.Models
 {
-    public class Livre
+    public class Livre : BaseEntity
     {
-        [Required]
-        public int Id { get; set; }
         [Required]
         public string Titre { get; set; }
         [Required]

@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.WebUI\obj\Debug\BookExchange.WebUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.WebUI\obj\Debug\BookExchange.WebUI.csproj.CoreCompileInputs.cache

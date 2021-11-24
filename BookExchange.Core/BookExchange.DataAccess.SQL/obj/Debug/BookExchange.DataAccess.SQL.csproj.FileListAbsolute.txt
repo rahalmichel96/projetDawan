@@ -8,10 +8,9 @@ C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQ
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\bin\Debug\EntityFramework.xml
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\obj\Debug\BookExchange.DataAccess.SQL.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\obj\Debug\BookExchange.DataAccess.SQL.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\obj\Debug\BookExchange.DataAccess.SQL.csproj.CopyComplete
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\obj\Debug\BookExchange.DataAccess.SQL.dll
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\obj\Debug\BookExchange.DataAccess.SQL.pdb
-C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\obj\Debug\BookExchange.DataAccess.SQL.Migrations.InitialModel.resources
-C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.DataAccess.SQL\obj\Debug\BookExchange.DataAccess.SQL.csproj.GenerateResource.cache

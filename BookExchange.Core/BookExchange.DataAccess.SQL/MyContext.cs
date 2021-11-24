@@ -23,11 +23,10 @@ namespace BookExchange.DataAccess.SQL
 
         public virtual DbSet<Livre> Livres { get; set; }
         public virtual DbSet<Utilisateur> Utilisateurs { get; set; }
-        public virtual DbSet<Auteur> Auteurs { get; set; }
-        public virtual DbSet<Commande> Commandes { get; set; }
-        public virtual DbSet<Categorie> Categories { get; set; }
         public virtual DbSet<Compte> Comptes { get; set; }
-
+        public virtual DbSet<Categorie> Categories { get; set; }
+        public virtual DbSet<Commande> Commandes { get; set; }
+        public virtual DbSet<Auteur> Auteurs { get; set; }
     }
 
     //public class MyEntity

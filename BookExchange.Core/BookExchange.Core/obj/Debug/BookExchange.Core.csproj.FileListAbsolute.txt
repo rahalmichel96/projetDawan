@@ -1,6 +1,5 @@
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.Core\bin\Debug\BookExchange.Core.dll
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.Core\bin\Debug\BookExchange.Core.pdb
-C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.Core\obj\Debug\BookExchange.Core.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.Core\obj\Debug\BookExchange.Core.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.Core\obj\Debug\BookExchange.Core.dll
 C:\Users\Admin\Desktop\Projet Dawan\BookExchange.Core\BookExchange.Core\obj\Debug\BookExchange.Core.pdb

@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace BookExchange.Core.Models
 {
-    public class Commande
+    public class Commande : BaseEntity
     {
-        [Required]
-        public int Id { get; set; }
         [Required]
         public DateTime DateCommande { get; set; }
         [Required]

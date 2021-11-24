@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Auteur.cs" />
+    <Compile Include="Models\BaseEntity.cs" />
     <Compile Include="Models\Categorie.cs" />
     <Compile Include="Models\Commande.cs" />
     <Compile Include="Models\Compte.cs" />

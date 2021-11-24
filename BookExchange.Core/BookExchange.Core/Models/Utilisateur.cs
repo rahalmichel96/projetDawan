@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace BookExchange.Core.Models
 {
-    public class Utilisateur
+    public class Utilisateur : BaseEntity
     {
-        [Required]
-        public int Id { get; set; }
         [Required]
         public string Nom { get; set; }
         [Required]
@@ -34,9 +32,7 @@ namespace BookExchange.Core.Models
         public string Email { get; set; }
         [Required]
         public bool Admin { get; set; }
-        [Required]
         public Compte Compte { get; set; }
-        [Required]
         public List<Commande> Commandes { get; set; }
     }
 }
